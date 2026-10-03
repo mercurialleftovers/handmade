@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - "I[C:\BuildTools\Windows Kits\10\Include\10.0.26100.0\winrt]",
+    - "I[C:\BuildTools\Windows Kits\10\Include\10.0.26100.0\ucrt]",
+    - "I[C:\BuildTools\Windows Kits\10\Include\10.0.26100.0\um]",
